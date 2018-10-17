@@ -8,8 +8,8 @@
   "author": "",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "debug": "~0.7.2",
+    "debug": "^4.1.0",
     "node-uuid": "~1.4.1",
-    "servicebus": "~0.2.0"
+    "servicebus": "^2.2.2"
   }
 }
